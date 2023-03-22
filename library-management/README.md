@@ -28,6 +28,7 @@ So that is why I am writing this series of tutorials to help you master library 
 - Editing Existing Symbols
 - Creating New Symbols & Libraries
 - defining new data fields
+  - ![image](https://user-images.githubusercontent.com/97303986/227029111-2375ab34-9e8d-4f94-9725-e54c2ecb2715.png)
 - Linking Schematic Symbols to default footprints
 
 
